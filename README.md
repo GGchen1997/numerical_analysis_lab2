@@ -1,2 +1,2 @@
-# numerical_analysis_lab1
-numerical analysis lab1
+# numerical_analysis_lab2
+numerical analysis lab2
